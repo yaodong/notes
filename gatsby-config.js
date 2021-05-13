@@ -7,5 +7,15 @@ module.exports = {
       resolve: `gatsby-theme-notes`,
       options: {},
     },
+    {
+      resolve: `gatsby-plugin-mdx`,
+      options: {
+        gatsbyRemarkPlugins: [
+          {
+            resolve: `gatsby-remark-double-brackets-link`,
+          },
+        ],
+      },
+    }
   ],
 }
