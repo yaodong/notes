@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_starter_notes_theme=self.webpackChunkgatsby_starter_notes_theme||[]).push([[678],{7704:function(t,e,a){"use strict";a.r(e);a(7294);var s=a(5444),r=a(9616),n=a(3431);e.default=function(){var t=(0,s.K2)("2247293453");return(0,n.tZ)(r.Z,{data:t})}}}]);
+//# sourceMappingURL=component---src-pages-index-js-cb3668f65d158c096c7b.js.map
